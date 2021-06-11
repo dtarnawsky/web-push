@@ -1,0 +1,7 @@
+{
+  "name": "web-push",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
