@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cs-ionic-app": {
+      "hosting": {
+        "app": [
+          "cs-ionic-app"
+        ]
+      }
+    }
+  }
+}
